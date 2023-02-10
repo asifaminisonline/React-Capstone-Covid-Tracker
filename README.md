@@ -50,7 +50,7 @@
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://pages.github.com/">Github Pages</a></li>
+    <li><a href="https://render.io">Render</a></li>
   </ul>
 </details>
 
@@ -71,7 +71,7 @@
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a href="https://global-covid-cases.onrender.com/">Live Link</a>
+## 🚀 Live Demo <a href="https://global-covid-cases.onrender.com">Live Link</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
