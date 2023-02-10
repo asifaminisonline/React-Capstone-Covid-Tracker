@@ -132,17 +132,6 @@ Github Pages.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Following are a few features i will add to the project in future.
-
-- [ ] I will add a database to this project in future where i can save user data.
-- [ ] I will update the interface and design of the project in future.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -181,9 +170,9 @@ If you're committed to making the world a better place, please support our proje
 
   - [Answer_1]:Thanks for the question you can find the answer at the top section of this readme.md file where i have explained everything.
 
-- **[Question_2]** Have you used webpack in this project ?
+- **[Question_2]** Have you used react redux in this project ?
 
-  - [Answer_2] Yes i have used webpack 5 in this project.
+  - [Answer_2] Yes i have used react redux in this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
