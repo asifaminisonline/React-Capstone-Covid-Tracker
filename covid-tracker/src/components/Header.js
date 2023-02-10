@@ -12,9 +12,7 @@ const Header = (props) => {
             <i className="fas fa-chevron-left" />
             {new Date().getFullYear()}
           </div>
-          <div>
-            Countries COVID Cases
-          </div>
+          <div>Global COVID Cases</div>
           <div>
             <i className="fas fa-microphone" />
             <i className="fas fa-cog" />
@@ -24,11 +22,11 @@ const Header = (props) => {
       {page === 'regions' && (
         <nav>
           <div>
-            <Link to="/"><i className="fas fa-chevron-left" /></Link>
+            <Link to="/">
+              <i className="fas fa-chevron-left" />
+            </Link>
           </div>
-          <div>
-            Detailed COVID Cases
-          </div>
+          <div>Detailed COVID Cases</div>
           <div>
             <i className="fas fa-microphone" />
             <i className="fas fa-cog" />
