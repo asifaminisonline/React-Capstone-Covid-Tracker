@@ -61,7 +61,7 @@
 > This project is a React Single Page App.
 > This project is displaying an updated data about COVID.
 > This project is showing the detailed information in each country.
-> This project is using different react libraries library.
+> This project is using different react libraries.
 > This project is using React Router.
 > This project is using best practices with React and JavaScript.
 > This project follows the gitflow convention.
