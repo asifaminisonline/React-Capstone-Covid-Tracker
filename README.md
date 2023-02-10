@@ -81,8 +81,6 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> This is how a new developer could make use this project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
@@ -123,8 +121,6 @@ Github Pages.
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **asifaminisonline **
 
