@@ -75,7 +75,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Video: <a href="https://www.loom.com/share/bcacaa4511c24506828d1586ae5cacf5">Video Link<a/>
+## Video: <a href="https://www.loom.com/share/a1dfa3a4f38645cb9a474bd922bd240c">Video Link<a/>
 
 <!-- GETTING STARTED -->
 
@@ -125,6 +125,20 @@ Github Pages.
 👤 **asifaminisonline **
 
 - GitHub: [@asifaminisonline ](https://github.com/asifaminisonline)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+  
+  
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+-  I will update the interface and design of the project in future.
+-  I will add the new features in future like this app will show Covid cases State wise also.
+-  I will add the new features in future like this app will show Covid cases City wise also.
+-  I will add the new features in future like a user can search Covid cases when clicking on country
+-  It can search for states and show cases of that specific state.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
