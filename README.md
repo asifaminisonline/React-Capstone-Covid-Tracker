@@ -71,7 +71,7 @@
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a href="#">link coming soon...</a>
+## 🚀 Live Demo <a href="https://global-covid-cases.onrender.com/">Live Link</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
